@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React Native**
 
-- 📫 How to reach me **React Native**
+- 📫 How to reach me **rndev45@proton.mee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
